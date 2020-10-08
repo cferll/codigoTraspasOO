@@ -1,5 +1,7 @@
 package es.unileon.prg1.square;
 
+// comentario de linea
+
 public class MainSquare {
 	public static void main(String[] args) {
 		// Declaration
